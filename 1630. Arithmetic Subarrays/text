@@ -21,3 +21,12 @@ Example 2:
 Example 3:
     Input: rating = [1,2,3,4]
     Output: 4
+
+Constraints:
+    n == nums.length
+    m == l.length
+    m == r.length
+    2 <= n <= 500
+    1 <= m <= 500
+    0 <= l[i] < r[i] < n
+    -105 <= nums[i] <= 105
